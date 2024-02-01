@@ -1,1 +1,1 @@
-Project "Ono tebe nado"
+https://github.com/Piraliev/ono-tebe-nado.git
